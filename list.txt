@@ -1,0 +1,7 @@
+google.com
+gmail.com
+news.com
+sjsu.edu
+www.sjsu.edu
+www.soe.ucsc.edu
+130.65.218.11
